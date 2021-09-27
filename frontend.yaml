@@ -46,7 +46,7 @@ objects:
     source:
       type: Git
       git:
-        uri: https://github.com/nerdingitout/serverless-sentiment.git
+        uri: https://github.com/sree77hari/serverless-sentiment.git
     strategy:
       type: Docker
     output:
